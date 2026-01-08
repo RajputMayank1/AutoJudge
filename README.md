@@ -104,9 +104,9 @@ by modeling non-linear relationships.
 | Model | MAE (Lower is Better) |
 |----|----|
 | Mean Baseline | ~1.3 |
-| Linear Regression | ~0.9 |
-| Random Forest Regressor | ~0.7 |
-| **Gradient Boosting Regressor (Final)** | **~0.6** |
+| Linear Regression | ~1.9 |
+| Random Forest Regressor | ~1.7 |
+| **Gradient Boosting Regressor (Final)** | **~1.6** |
 ## Key Insights
 
 - Difficulty prediction is inherently noisy due to overlapping problem structures
